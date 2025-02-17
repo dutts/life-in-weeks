@@ -6,22 +6,35 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
-- class_name: "brooklyn"
+- class_name: "moreton"
   element: "border"
   color_name: "#8eb2d6"
-- class_name: "san-diego"
+- class_name: "birmingham"
   element: "border"
   color_name: "#FCC737"
-- class_name: "north-carolina"
+- class_name: "hartwell"
   element: "border"
   color_name: "#118B50"
-- class_name: "poughkeepsie"
+- class_name: "miltonkeynes"
   element: "border"
   color_name: "#469046"
+
+- class_name: "northampton"
+  element: "border"
+  color_name: "#8eb2d6"
+
+- class_name: "earls-barton"
+  element: "border"
+  color_name: "#FCC737"
+- class_name: "dawlish"
+  element: "border"
+  color_name: "#469046"
+
+
 - class_name: "i-was-tiny"
   element: "background-color"
   color_name: "white"
-- class_name: "kindergartner"
+- class_name: "prep-school-student"
   element: "background-color"
   color_name: "#FFF6DA"
 - class_name: "student"
