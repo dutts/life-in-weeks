@@ -83,9 +83,21 @@
     - headline: "🇰🇪 Kenya"
       description: "A holiday to Kenya for Christmas, went on a five day safari with my  staying at various lodges in the Tsavo National Park while my mum and sister stayed back at the hotel. Saw giraffes and elephants. Went reef walking on Christmas Day"
 
+"1992-11-27":
+    - headline: "💾 Rickies BBS"
+      description: "My little BBS joined FidoNet with its very own address, 2:250/130. I reckon I was one of the youngest SysOps on FidoNet. Happy days chatting to random users, and playing TradeWars2002 and L.O.R.D."
+
 "1992-07-14":
     - headline: "🇺🇸 USA"
       description: "A six week USA roadtrip, flying into Las Vegas and driving to Palm Springs, San Diego, LA, Salt Lake City and Yellowstone."
+
+"1993-01-01": 
+    - headline: "💾 The Prisoner BBS"
+      deadline: "A day trip to Portmerion triggered a brief interest in the 1970s TV show The Prisoner, and a (short-lived) rebrand of the BBS."
+
+"1993-05-14":
+    - headline: "💾 The Hairy Troll BBS"
+      deadline: "Told you it was short-lived! Renamed to The Hairy Troll BBS, which most people came to know it as. Ran up to mid 1995, had a few hundred regular users, and even operated an early UUCP gateway to the 'Internet' offering subscribed users their own email address at the 'troll.org' domain name, if only I'd kept hold of that one!"
 
 "1993-05-01":
     - headline: "Common Extrance"
